@@ -2,7 +2,7 @@
 
 ## 概述
 
-官方镜像`gcr.io/kaniko-project/executor:debug`在国内无法下载，这里依赖`colynn/kaniko-executor:v1.6.0` 制作一个用于`jenkins/gitlabCI 构建镜像使用.
+官方镜像`gcr.io/kaniko-project/executor:debug`在国内无法下载，这里依赖`colynn/kaniko-executor:v1.9.0` 制作一个用于`jenkins/gitlabCI 构建镜像使用.
 
 ## How to create
 ```sh
